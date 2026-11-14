@@ -21,4 +21,4 @@ jobs:
         python-version: "3.9"
     - name: Run Unit tests
       run: |
-        python teste.py
+        python semana13/teste.py
